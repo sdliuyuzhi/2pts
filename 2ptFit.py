@@ -119,3 +119,4 @@ plt.show()
 #p0=None
 #fit=nonlinear_fit(data=(x,avg,cov),fcn=twopt.f,p0=p0,prior=prior,svdcut=1.e-12,reltol=1.e-15,maxit=5000)
 #print fit
+#test git
